@@ -8,7 +8,7 @@
     for it.
 ### To manage the all the routes and all our requests traversed through
 	- API Gateway
-    we will be creating our microservice as a resilint microservice.
+    we will be creating our microservice as a resilient microservice.
 ### For creating a Circuit Breaker
 	- Hystrix   
 ### For Log and Error Tracing 
